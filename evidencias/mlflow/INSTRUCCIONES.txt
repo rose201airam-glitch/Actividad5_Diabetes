@@ -1,0 +1,1 @@
+No se incluyen capturas ni registros ficticios. Instale MLflow, ejecute python fuentes/train.py, abra mlflow ui --backend-store-uri ./mlruns --port 5000 y capture las dos ejecuciones, parámetros, métricas y artefactos. Conserve las capturas aquí.

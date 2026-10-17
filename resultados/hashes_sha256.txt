@@ -1,0 +1,2 @@
+f16718c1e6602b419193b9a023dbe278ae7f85ff343158813d7040a9f7512dec  datos/datos_ini/diabetes_original.csv
+6a82b75182b185f214867cc4abf670013ac15eb81fc0af8811752b7615c03a0a  datos/datos_limp/diabetes_limpio.csv

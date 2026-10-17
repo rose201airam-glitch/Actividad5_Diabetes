@@ -1,0 +1,6 @@
+{
+  "prueba": "t pareada exploratoria sobre RMSE de 5 folds",
+  "estadistico_t": -4.674845648488065,
+  "valor_p": 0.00948402518240404,
+  "advertencia": "Los folds no son independientes; interpretar solo exploratoriamente."
+}
